@@ -86,4 +86,4 @@
 
 ---
 
-> _"Stay focused, keep grinding, and turn your passion for learning into real-world impact."_  🚀
+> _"Stay focused, keep grinding, and turn your passion for learning into real-world impact."_ 🚀
