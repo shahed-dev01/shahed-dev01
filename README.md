@@ -81,7 +81,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahedltd&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahed-dev01&show_icons=true&theme=default" width="48%" />
 </p>
 
 ---
