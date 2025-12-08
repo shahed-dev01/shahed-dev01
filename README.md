@@ -81,12 +81,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahed-dev01&show_icons=true&theme=default" width="48%" />
-</p>
-
----
-
-> _"Stay focused, keep grinding, and turn your passion for learning into real-world impact."_ 🚀
