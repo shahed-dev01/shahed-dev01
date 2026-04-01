@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Shahed Rahman</h1>
 <h3 align="center">
-  A Passionate Back-End Developer from Bangladesh | Aspiring Machine Learning Engineer<br>
+  Learning Machine Learning Engineering!<br>
   Building Strong Foundations in Math, Python & Real-World AI Projects
 </h3>
 
