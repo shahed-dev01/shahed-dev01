@@ -24,7 +24,7 @@
 
 - 🎯 Currently learning **Scikit-learn, TensorFlow, Keras, PyTorch, NumPy, Pandas, SciPy, Statsmodels, SymPy**
 - 🧠 Diving deep into **Math for Machine Learning** and **AI Algorithms**
-- 💻 Explore my projects: [Anonymous Chat App](https://anonymous-chat-app-nm4o.onrender.com/), [LungsAI – Deep Learning Pneumonia Classifier](https://lungsai-project.streamlit.app)
+- 💻 Explore my projects: [Anonymous Chat App](https://anonymous-chat-app-nm4o.onrender.com/), [LungsAI – Deep Learning Pneumonia Classifier](https://lungsai-project.streamlit.app), [Water Quality Analyzer](https://water-quality-analy.streamlit.app/)
 - 💬 Ask me about **Python, R, Flask, FastAPI, Django**
 - 📫 Reach me at: **shahedrahmanltd@gmail.com**
 - ⚡ Fun Fact:  
